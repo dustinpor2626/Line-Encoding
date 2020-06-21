@@ -17,3 +17,10 @@ DIffmanchester
 AMI
 
 Pseudoter
+
+
+To Run this 
+
+-Compile the java files "javac First.java"
+
+-then run through "java First"
